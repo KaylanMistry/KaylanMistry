@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Kaylan Mistry
+- 👀 I’m interested in playing piano, martial arts, software development, 
+- 🌱 I’m currently learning Data collection with Python.
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me, email me at: kaylan.mistry@gmail.com
