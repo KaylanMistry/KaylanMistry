@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kaylan Mistry
-- 👀 I’m interested in playing piano, martial arts, data, software and cloud engineering, as well as music
+- 👀 I’m interested in playing piano, martial arts, data, software and cloud engineering, as well as being a film enthusiast 
 - 🌱 I’m currently learning panda dataframes with Python.
 - 💞️ I’m currently working on a project to predict football matches 
 - 📫 How to reach me, email me at: kaylan.mistry@gmail.com
